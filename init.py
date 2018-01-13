@@ -17,4 +17,4 @@ sense.set_pixels(rain_cloud_display())
 # Display image on pixel screen
 # sense.load_image('/home/pi/Desktop/bullet.gif')
 
-# sense.clear()
+sense.clear()
